@@ -38,3 +38,12 @@ p {
 .bottom {
   padding-bottom: 200px;
 }
+
+a {
+  color: #767676;
+  text-decoration: underline;
+}
+
+a:hover {
+  color: black;
+}
