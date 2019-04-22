@@ -1,0 +1,27 @@
+body {
+  font-family: 'Cardo', serif;
+}
+
+
+.nav {
+  height: 100px;
+  background-color: #F8F8F8;
+  border-top: 3px solid #464646;
+  border-bottom: 1px solid #E6E6E6
+
+}
+
+.navText {
+  margin: auto;
+  font-size: 32px;
+}
+
+.images {
+  margin: auto;
+  width: 50%;
+}
+
+.images img {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
