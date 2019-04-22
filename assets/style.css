@@ -2,13 +2,13 @@ body {
   font-family: 'Cardo', serif;
 }
 
-
-.nav {
+.navAP {
+  text-align: center;
   height: 100px;
+  padding-top: 10px;
   background-color: #F8F8F8;
-  border-top: 3px solid #464646;
-  border-bottom: 1px solid #E6E6E6
-
+  border-top: 4px solid #464646;
+  border-bottom: 1px solid #E6E6E6;
 }
 
 .navText {
@@ -16,9 +16,14 @@ body {
   font-size: 32px;
 }
 
+.navTextSmall {
+  text-align: center;
+  font-size: 16px;
+}
+
 .images {
   margin: auto;
-  width: 50%;
+  width: 70%;
 }
 
 .images img {
